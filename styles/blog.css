@@ -1,6 +1,10 @@
 div{
-background-color: aqua;
+background-color: red;
 padding: 10px;
 margin-bottom: 10px;
 
+}
+.pic{
+    display: block;
+    margin: auto;
 }
